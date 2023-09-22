@@ -22,7 +22,7 @@ echo -e "    \e[31mTelegram Channel: \e[34m@wizwizch\033[0m | \e[31mTelegram Gro
 echo -e "\e[32mInstalling WizWiz script ... \033[0m\n"
 sleep 5
 
-sudo apt update && apt upgrade -y
+sudo apt update -y
 echo -e "\e[92mThe server was successfully updated ...\033[0m\n"
 
 
